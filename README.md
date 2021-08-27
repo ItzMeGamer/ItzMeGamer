@@ -1,6 +1,6 @@
 ## Hey!
 
-- 📫 Im working on a bot called 8P4M.
+- 📫 Im working on a bot called ZOX3.
 - 😮 Call me ItzMeGamer or just Gamer
 <p><p>
   
