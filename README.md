@@ -42,8 +42,10 @@
   <img alt="Node.js" width="32px"
        src="https://i.imgur.com/tYLFZBh.png">
 
-  <img alt="Python" width="32px"
-       src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png">
+ <img
+  alt="Python"
+  width="32px"
+  src="https://www.python.org/static/community_logos/python-logo.png">
 </p>
 
 <hr>
