@@ -22,7 +22,7 @@
 <h3>🧪 Current Experiments</h3>
 
 <ul>
-  <li>🍎 Hackintosh & AMD GPU compatibility</li>
+  <li>🎮 GTA 6 Emulation / Recomp Hardware Tester </li>
   <li>🎮 RX 6500 XT / Navi 24 experimentation</li>
   <li>🤖 ESP32 and robotics projects</li>
   <li>🐧 Linux home-server stuff</li>
